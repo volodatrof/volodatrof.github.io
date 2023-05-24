@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Сайт web-студії "Web DECO"</title>
      <!-- =================== JAVASCRIPT ==================-->
-     <script src="js/clock.js"></script>
+     <script src="js/clock1.js"></script>
      <script type="text/javascript">
         function send()
         {
